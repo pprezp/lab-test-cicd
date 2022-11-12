@@ -55,6 +55,7 @@ public class PizzaOrden {
         System.out.println("¿Deseas pizza vegetariana (Y/N)?");
         Scanner input = new Scanner(System.in);
         setOpcionVeg(input.next());
+        input.close();
     }
 
     public void desplegarMensajeDefault() {
@@ -84,6 +85,7 @@ public class PizzaOrden {
         setIngrediente2(input.next());
         System.out.println("Ingrediente 3: ");
         setIngrediente3(input.next());
+        input.close();
     }
 
     public void desplegarResumenOrden() {
