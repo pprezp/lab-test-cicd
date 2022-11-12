@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-12T10:09:14 CST" name="Default suite" finished-at="2022-11-12T10:09:14 CST" duration-ms="110">
+    <groups>
+    </groups>
+    <test started-at="2022-11-12T10:09:14 CST" name="Default test" finished-at="2022-11-12T10:09:14 CST" duration-ms="110">
+      <class name="com.testng.ejercicio1.NewTest">
+        <test-method is-config="true" signature="preconditions()[pri:0, instance:com.testng.ejercicio1.NewTest@41fecb8b]" started-at="2022-11-12T10:09:14 CST" name="preconditions" finished-at="2022-11-12T10:09:14 CST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preconditions -->
+        <test-method signature="verificaIngrediente1Default()[pri:0, instance:com.testng.ejercicio1.NewTest@41fecb8b]" started-at="2022-11-12T10:09:14 CST" name="verificaIngrediente1Default" finished-at="2022-11-12T10:09:14 CST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificaIngrediente1Default -->
+        <test-method signature="verificaOpcionIngrediente1Peperoni()[pri:0, instance:com.testng.ejercicio1.NewTest@41fecb8b]" started-at="2022-11-12T10:09:14 CST" name="verificaOpcionIngrediente1Peperoni" finished-at="2022-11-12T10:09:14 CST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificaOpcionIngrediente1Peperoni -->
+        <test-method signature="verificaOpcionIngrediente1Pimiento()[pri:0, instance:com.testng.ejercicio1.NewTest@41fecb8b]" started-at="2022-11-12T10:09:14 CST" name="verificaOpcionIngrediente1Pimiento" finished-at="2022-11-12T10:09:14 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificaOpcionIngrediente1Pimiento -->
+        <test-method signature="verificaOpcionIngrediente2Hongo()[pri:0, instance:com.testng.ejercicio1.NewTest@41fecb8b]" started-at="2022-11-12T10:09:14 CST" name="verificaOpcionIngrediente2Hongo" finished-at="2022-11-12T10:09:14 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificaOpcionIngrediente2Hongo -->
+        <test-method signature="verificaOpcionIngrediente3Espinaca()[pri:0, instance:com.testng.ejercicio1.NewTest@41fecb8b]" started-at="2022-11-12T10:09:14 CST" name="verificaOpcionIngrediente3Espinaca" finished-at="2022-11-12T10:09:14 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificaOpcionIngrediente3Espinaca -->
+        <test-method signature="verificaOpcionInvalidaIngrediente1()[pri:0, instance:com.testng.ejercicio1.NewTest@41fecb8b]" started-at="2022-11-12T10:09:14 CST" name="verificaOpcionInvalidaIngrediente1" finished-at="2022-11-12T10:09:14 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificaOpcionInvalidaIngrediente1 -->
+        <test-method signature="verificaOpcionVeganaDefault()[pri:0, instance:com.testng.ejercicio1.NewTest@41fecb8b]" started-at="2022-11-12T10:09:14 CST" name="verificaOpcionVeganaDefault" finished-at="2022-11-12T10:09:14 CST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificaOpcionVeganaDefault -->
+        <test-method signature="verificaOpcionVeganaTrue()[pri:0, instance:com.testng.ejercicio1.NewTest@41fecb8b]" started-at="2022-11-12T10:09:14 CST" name="verificaOpcionVeganaTrue" finished-at="2022-11-12T10:09:14 CST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verificaOpcionVeganaTrue -->
+      </class> <!-- com.testng.ejercicio1.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
